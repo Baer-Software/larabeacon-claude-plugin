@@ -1,0 +1,10 @@
+{
+  "mcpServers": {
+    "larabeacon": {
+      "command": "php",
+      "args": [
+        "${CLAUDE_PLUGIN_ROOT}/server/larabeacon-mcp.php"
+      ]
+    }
+  }
+}
